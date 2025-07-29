@@ -43,7 +43,7 @@ I’m a B.Tech Computer Science student passionate about full-stack development,
 - 💼 [LinkedIn](https://www.linkedin.com/in/snehal-mehra-63002124b)
 - 🧠 [LeetCode](https://leetcode.com/u/snehalmehra017/)
 - 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/snehalmefgd4/)
-- ✨ Portfolio (coming soon)
+- ✨🌐 [Portfolio Website](https://portfolio-8jj7.vercel.app/)
 
 ---
 
