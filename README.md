@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Snehal Mehra!
 
-<!--
-**snehal173/snehal173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>"Doubt kills more dreams than failure ever will."
+> Driven. Focused. Always learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a B.Tech Computer Science student passionate about full-stack development, scalable systems, and clean UI/UX. Whether it's frontend finesse or backend architecture, I love turning ideas into real-world solutions.
+
+- 🔧 Building projects that solve real problems
+- 📈 Improving daily with DSA, dev tools, and new tech
+- 🤝 Always open to collaborate on impactful products
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Languages  
+`C` `C++`  `Python` `JavaScript` `SQL` `HTML` `CSS`
+
+### ⚙️ Frameworks & Tools  
+`React` `Node.js` `Express` `Next.js` `Redux` `Tailwind CSS` `Vite`
+
+### 🧩 Libraries & APIs  
+`Framer Motion`  `Chart.js` `Cloudinary` `Razorpay API` 
+
+---
+
+## 📚 Education
+
+**B.Tech in Computer Science and Engineering**  
+*Guru Nanak Dev University, Amritsar (2022–2026)*  
+📊 CGPA: **8.27**  
+📘 Relevant Coursework:  
+*Object-Oriented Programming, Operating Systems, DBMS, Computer Networks, System Programming*
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/snehal-mehra-63002124b)
+- 🧠 [LeetCode](https://leetcode.com/u/snehalmehra017/)
+- 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/snehalmefgd4/)
+- ✨ Portfolio (coming soon)
+
+---
+
+### 🧘 Outside the Code
+Badminton 🏸 | Nature walks 🌳 | Tech exploration 🤖 
+
+---
+
+📌 *“Let’s build, learn, and grow together!”*
+
+
+
